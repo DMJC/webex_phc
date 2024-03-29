@@ -5,3 +5,6 @@ Currently you need to login to the Cisco Webex Developer website and generate a 
 -- Caveats --
 - Manual Token Generation is a bit annoying.
 - The Call Log isn't saved.
+
+## Building
+Compile using g++, requires libcurl, gtkmm-3.0, ayatana-appindicator3-0.1, dbusmenu-gtk3-0.4
